@@ -1,4 +1,4 @@
 provider "google" {
-  project     = "content-gen-418510" // Mistakenly put the project name "myProject"
+  project     = "content-gen-418510" 
   region      = "asia-northeast1"
 }
